@@ -1,0 +1,23 @@
+,0
+discount rate 0,"Category('2.5', 2.5)"
+discount rate 1,"Category('1.5', 1.5)"
+discount rate 2,"Category('4.5', 4.5)"
+A.0_ID flood wave shape,123
+A.1_Bmax,30.03342436588894
+A.1_pfail,2.266919679600064e-10
+A.1_Brate,"Category('10', 10)"
+A.2_Bmax,30.11529836688576
+A.2_pfail,1.3735627959382691e-08
+A.2_Brate,"Category('1.5', 1.5)"
+A.3_Bmax,115.29972828647377
+A.3_pfail,0.005433632949542848
+A.3_Brate,"Category('10', 10)"
+A.4_Bmax,194.92048363969707
+A.4_pfail,0.43553521186476163
+A.4_Brate,"Category('1.5', 1.5)"
+A.5_Bmax,142.34388001668805
+A.5_pfail,0.0002059298195226933
+A.5_Brate,"Category('10', 10)"
+Expected Number of Deaths,3.515773421732701
+Dike Investment Costs,547390948.5911531
+RfR Investment Costs,1203900000.0
